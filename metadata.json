@@ -1,0 +1,5 @@
+{
+  "name": "Lyquor Prediction Protocol",
+  "description": "A high-frequency prediction market dashboard featuring real-time price feeds, node consensus visualization, and rapid settlement hooks.",
+  "requestFramePermissions": []
+}
