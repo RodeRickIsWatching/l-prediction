@@ -217,7 +217,7 @@ const App: React.FC = () => {
                     </div>
                     
                     <div className="flex items-baseline gap-4">
-                        <span className={`text-6xl font-mono font-medium tracking-tighter ${
+                        <span className={`text-lg font-mono font-medium tracking-tighter ${
                             priceDirection === 'up' ? 'text-white' : priceDirection === 'down' ? 'text-white' : 'text-white'
                         }`}>
                             {currentPrice.toFixed(2)}
